@@ -1,9 +1,13 @@
 {
-    "name": "portphp/excel",
+    "name": "diviky/excel",
     "description": "Excel reader and writer for Port",
     "license": "MIT",
     "homepage": "https://github.com/portphp",
     "authors": [
+         {
+            "name": "sankar suda",
+            "email": "sankar.suda@gmail.com"
+        },
         {
             "name": "David de Boer",
             "email": "david@ddeboer.nl"
@@ -18,8 +22,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/portphp/portphp/issues",
-        "source": "https://github.com/portphp/excel",
+        "issues": "https://github.com/diviky/excel/issues",
+        "source": "https://github.com/diviky/excel",
         "docs": "https://portphp.readthedocs.org"
     },
     "require": {
